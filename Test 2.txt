@@ -1,0 +1,3 @@
+Framework to check api health
+test test 
+use postman and for each request write a script which check the status code
